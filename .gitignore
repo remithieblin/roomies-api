@@ -1,0 +1,12 @@
+gen/
+bin/
+target/
+logs/
+
+*.class
+*.dex
+*.apk
+
+.classpath
+.settings/
+.project
